@@ -1,0 +1,21 @@
+body{
+    background-color:gray;
+    color: rgb(238, 239, 245);
+}
+
+.tstyle {
+    border: 4px;
+
+}
+table {
+    width: 50%;
+    border: 1px solid black;
+  }
+  
+  th {
+    height: 100px;
+    border: 3px solid black;
+  }
+  td {
+    border: 1px solid black;
+  }
